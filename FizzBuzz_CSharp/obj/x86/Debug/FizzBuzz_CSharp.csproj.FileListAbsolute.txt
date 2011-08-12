@@ -1,0 +1,5 @@
+c:\Projects\FizzBuzz_CSharp\FizzBuzz_CSharp\bin\Debug\FizzBuzz_CSharp.exe
+c:\Projects\FizzBuzz_CSharp\FizzBuzz_CSharp\bin\Debug\FizzBuzz_CSharp.pdb
+c:\Projects\FizzBuzz_CSharp\FizzBuzz_CSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\FizzBuzz_CSharp\FizzBuzz_CSharp\obj\x86\Debug\FizzBuzz_CSharp.exe
+c:\Projects\FizzBuzz_CSharp\FizzBuzz_CSharp\obj\x86\Debug\FizzBuzz_CSharp.pdb
